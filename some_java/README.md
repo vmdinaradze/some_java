@@ -1,2 +1,0 @@
-# some_java
- TestForJenkins
